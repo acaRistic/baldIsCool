@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1E19CC55-FB21-3C10-DF89-7A8D3FB07B1E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Types.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Types.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="../../../../Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Toggle.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityTuto_CollectCoinsAnimation-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Types.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8181bba3-2b88-4ccc-b637-c1828ad24b9f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aca/Downloads/BaldIsCool/Assets/Scripts/GameManager.cs" relfile="Assets/Scripts/GameManager.cs" line="176" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C58E45DB-7D05-E14E-8E9A-AF88458F54EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MaterialManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MaterialManager.cs" Line="21" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaldIsCool" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f92a92b-d047-41d4-b970-db23a4e2bd88" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
